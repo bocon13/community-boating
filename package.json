@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "console-stamp": "^3.0.2",
+    "node-cron": "^3.0.0",
+    "node-persist": "^3.1.0",
+    "pushover-notifications": "^1.2.2",
+    "rss-parser": "^3.12.0"
+  },
+  "name": "community-boating",
+  "version": "0.1.0",
+  "description": "Watches the Community Boating flag and notifies user when it changes.",
+  "main": "sailing.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian O'Connor",
+  "license": "MIT"
+}
